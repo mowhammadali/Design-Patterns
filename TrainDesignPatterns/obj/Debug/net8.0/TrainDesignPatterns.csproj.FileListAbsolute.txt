@@ -1,0 +1,14 @@
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\bin\Debug\net8.0\TrainDesignPatterns.exe
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\bin\Debug\net8.0\TrainDesignPatterns.deps.json
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\bin\Debug\net8.0\TrainDesignPatterns.runtimeconfig.json
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\bin\Debug\net8.0\TrainDesignPatterns.dll
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\bin\Debug\net8.0\TrainDesignPatterns.pdb
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.AssemblyInfoInputs.cache
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.AssemblyInfo.cs
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.csproj.CoreCompileInputs.cache
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.dll
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\refint\TrainDesignPatterns.dll
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.pdb
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.genruntimeconfig.cache
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\ref\TrainDesignPatterns.dll
