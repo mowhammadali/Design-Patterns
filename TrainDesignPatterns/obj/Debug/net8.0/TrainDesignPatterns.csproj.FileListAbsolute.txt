@@ -12,3 +12,4 @@ L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\refint
 L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.pdb
 L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.genruntimeconfig.cache
 L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\ref\TrainDesignPatterns.dll
+L:\asp .net core\TrainDesignPatterns\TrainDesignPatterns\obj\Debug\net8.0\TrainDesignPatterns.sourcelink.json
