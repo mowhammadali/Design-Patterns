@@ -1,6 +1,7 @@
 ﻿using TrainDesignPatterns.AbstractFactory.CaveLevel;
 using TrainDesignPatterns.AbstractFactory.Common;
 using TrainDesignPatterns.Adapter;
+using TrainDesignPatterns.Builder.Classic;
 using TrainDesignPatterns.ChainOfResponsibility;
 using TrainDesignPatterns.Decorator;
 using TrainDesignPatterns.FactoryMethod;
@@ -8,24 +9,16 @@ using TrainDesignPatterns.Mediator;
 using TrainDesignPatterns.Observer;
 using TrainDesignPatterns.ShoppingCart;
 using IEnemy = TrainDesignPatterns.AbstractFactory.Common.IEnemy;
+using TrainDesignPatterns.Builder.Nested;
+using TrainDesignPatterns.Builder.Fluent;
+using Product = TrainDesignPatterns.Builder.Fluent.Product;
 
 
 class Program
 {
     static void Main(string[] args)
     {
-        ChatRoom chatRoom = new ChatRoom();
-
-        RegularUser Ivan = new RegularUser("Ivan");
-        RegularUser John = new RegularUser("John");
-        AdminUser Alex = new AdminUser("Alex");
-
-        chatRoom.AddUser(Ivan, John, Alex);
-
-        Ivan.Send("Hello everyone!");
-        John.Send("Hello Ivan, How are you?");
-        Ivan.Send("I'm fine");
-
-        Alex.Send("Keep it friendly guys!");
+        var builder = new Product.Builder().SetName("This is product name")
+            .SetDescription("This is product description").Build();
     }
 }
